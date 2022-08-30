@@ -1,0 +1,25 @@
+h1 {
+    color: #27aedb;
+    text-align: center;
+    }
+    
+
+button{
+    color: #27aedb;
+    text-align: center;
+    justify-content: center;
+    align-items: center;
+    margin-left: 10px;
+    margin-top: 10px;
+}
+
+input{
+    margin-top: 20px;
+}
+.bg-pink{
+	background-color:pink;
+}
+
+.todo-text{
+   margin-top: 15px;
+}
